@@ -28,7 +28,7 @@ We welcome contributions from educators, developers, designers, and anyone passi
 
 - **Contribute to Our Projects:** Check out our [Contribution Guidelines](#) for more information on how you can contribute to our existing projects.
 - **Donate:** Support our mission by making a donation. Your contributions help us develop more resources and reach more children and youths. Visit our [Donations Page](#) for more details.
-- **Share Your Expertise:** Volunteer to mentor, create content, or lead workshops. Contact us at [info@kisheatechnologies.com](mailto:info@kishea.org).
+- **Share Your Expertise:** Volunteer to mentor, create content, or lead workshops. Contact us at [info@kishea.org](mailto:info@kishea.org).
 
 ## Contact Us
 
